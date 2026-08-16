@@ -68,7 +68,7 @@ I am a BSc Computer Science student at Queen's University Belfast, transitioning
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img align="left" width="47%" src="https://github-stats-extended.vercel.app/api?username=Sahooarpit&show_icons=true&theme=radical&hide_border=true&custom_title=2026%20GitHub%20Stats&v=2&include_all_commits=true" alt="Arpit's 2026 GitHub Stats" />
-  <img align="left" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahooarpit&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
+  <img align="left" width="47%" src="https://github-stats-extended.vercel.app/api?username=Sahooarpit&show_icons=true&theme=radical&hide_border=true&custom_title=2026%20GitHub%20Stats&include_all_commits=true&count_private=true&v=4" alt="Arpit's 2026 GitHub Stats" />
+  <img align="left" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahooarpit&layout=compact&theme=radical&hide_border=true&v=4" alt="Top Languages" />
 </div>
 <br clear="both"/>
