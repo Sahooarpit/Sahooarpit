@@ -53,7 +53,7 @@ I am a BSc Computer Science student at Queen's University Belfast, transitioning
 **Software Engineer Intern | CME Group, Belfast** *(July 2025 – Present)*
 *   **Cloud Infrastructure:** Led migration of application alerts to GCP using Config Connector (IaC) and GKE.
 *   **Backend & Data:** Designed production-facing REST APIs (Spring Boot) and engineered high-throughput data pipelines using Kafka.
-*   **Quality & CI/CD:** Automated build/testing pipelines (Jenkins, Docker), managed configurations with Ansible, and enhanced BDD testing with Cucumber—reducing functional testing time by 66%.
+*   **Quality & CI/CD:** Automated build/testing pipelines (Jenkins, Docker), managed configurations with Ansible, and enhanced BDD testing with Cucumber reducing functional testing time by 66%.
 
 ---
 
