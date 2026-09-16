@@ -45,6 +45,7 @@ I am a BSc Computer Science student at Queen's University Belfast, transitioning
 |---------|-------------|------------|
 | **Stock Market Matching Engine** | A real-time, in-memory order matching engine featuring transactional data integrity (ACID), JWT-based security, and a dynamic React UI. Fully containerized and deployed to GCP for testing. | Java, Spring Boot, React, Docker, GCP, PostgreSQL |
 | **LangChain Documentation AI Agent** | A Streamlit application utilizing a Retrieval-Augmented Generation (RAG) pipeline to query and analyze LangChain documentation with cited sources. | Python, LangChain, Pinecone, OpenAI GPT models, Streamlit |
+|**Call-e Government voice agent**| An intelligent AI agent that helps citizen report issues to muncipality by call | Python, HTML, Call-e SDK, fastApi |
 
 ---
 
